@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Graziela Maria Ribeiro de Sousa</h1>
-<h3 align="center">Atuo a 18 anos na área de TI, sendo 16 anos na área de Analista de Qualidade de Software, possuo uma vasta experiência em testes manuais e estou iniciando em automação e DevOps voltado para a área de qualidade. Nesses anos adquirir experiências nas áreas de e-commerce, telecomunicações, TI, Operacional, Comex (Comércio Exterior) e atualmente em Aviação (GOL), todas essas experiências faz cm que tenha uma visão abrangente do negócio e ser um elo fundamental entra as empresas e os clientes em potencial. Atualmente estou estudando automação de testes Cypress e fazendo pequenas automações em Java.</h3>
+<h1 align="center">Olá 👋, Eu Sou Graziela Maria</h1>
+<h4 align="center">Atuo a 18 anos na área de TI, sendo 16 anos na área de Analista de Qualidade de Software, possuo uma vasta experiência em testes manuais e estou iniciando em automação e DevOps voltado para a área de qualidade. Nesses anos adquirir experiências nas áreas de e-commerce, telecomunicações, TI, Operacional, Comex (Comércio Exterior) e atualmente em Aviação (GOL), todas essas experiências faz cm que tenha uma visão abrangente do negócio e ser um elo fundamental entra as empresas e os clientes em potencial. Atualmente estou estudando automação de testes Cypress e fazendo automações em Java.</h4>
 
 - 🌱 I’m currently learning **Cypress, Javascript etc**
 
