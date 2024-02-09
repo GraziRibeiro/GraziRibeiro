@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu Sou Graziela Maria</h1>
-<h4 align="center">Atuo a 18 anos na área de TI, sendo 16 anos na área de Analista de Qualidade de Software, possuo uma vasta experiência em testes manuais e estou iniciando em automação e DevOps voltado para a área de qualidade. Nesses anos adquirir experiências nas áreas de e-commerce, telecomunicações, TI, Operacional, Comex (Comércio Exterior) e atualmente em Aviação (GOL), todas essas experiências faz com que tenha uma visão abrangente do negócio e ser um elo fundamental entre as empresas e os clientes em potencial. Atualmente estou estudando automação de testes Cypress e fazendo automações em Java.</h4>
+<h4 align="center">Atuo há 18 anos na área de TI, sendo 16 anos na área de Analista e Qualidade de Software, possuo uma vasta experiência em testes manuais e estou iniciando em automação e DevOps voltado para a área de qualidade. Nesses anos adquiri experiências nas áreas de e-commerce, telecomunicações, TI, Operacional, Comex (Comércio Exterior) e atualmente em Aviação (GOL), todas essas experiências fazem com que tenha uma visão abrangente do negócio e ser um elo fundamental entre as empresas e os clientes em potencial. Atualmente estou estudando automação de testes Cypress e fazendo automações em Java.</h4>
 
 - 🌱 Atualmente estou aprendendo **Cypress, Javascript etc**
 
@@ -81,13 +81,9 @@
 <h3 align="left">CI/CD:</h3>
 <p align="left"> 
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="60" height="60"/> </a>&nbsp
+ <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="60" height="60"/> </a>&nbsp 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60"/> </a> &nbsp
  
-</p>
-
-<h3 align="left">Ferramenta Automação Entrega Continua:</h3>
-<p align="left"> 
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="60" height="60"/> </a>&nbsp 
 </p>
 
 <h3 align="left">Sistema Operacional:</h3>
